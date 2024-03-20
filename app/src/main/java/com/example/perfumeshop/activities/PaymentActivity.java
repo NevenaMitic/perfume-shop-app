@@ -8,7 +8,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.perfumeshop.R;
-import com.example.perfumeshop.activities.user.ProfileActivity;
 import com.paypal.checkout.approve.Approval;
 import com.paypal.checkout.approve.OnApprove;
 import com.paypal.checkout.createorder.CreateOrder;
