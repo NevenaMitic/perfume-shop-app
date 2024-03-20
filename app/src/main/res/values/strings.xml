@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Perfume Shop</string>
+
+    <string name="first_slide">Discover the Fragrance of Elegance</string>
+    <string name="second_slide">Fast Delivery</string>
+    <string name="third_slide">Shop Now</string>
+
+    <string name="description">Discover the beauty of fragrance with our collection of premium perfumes. Immerse yourself in the aroma of luxury and elevate your style.</string>
+    <string name="description2">"Perfume follows you, it chases you and lingers behind you. It's a reference mark. Perfume makes silence talk."</string>
+    <string name="description3">Perfume is the key to our memories.</string>
+
+</resources>

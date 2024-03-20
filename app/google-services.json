@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756203524842",
+    "project_id": "perfume-shop-26f93",
+    "storage_bucket": "perfume-shop-26f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756203524842:android:395d5726784e138b9dfd93",
+        "android_client_info": {
+          "package_name": "com.paypaltest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALvmz61qAMZoRZuq_ShuYNn_WW6i5eaKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

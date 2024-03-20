@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="beige">#F1C8AC</color>
+    <color name="text_shadow">#7f000000</color>
+
+    <color name="rating_high">#FFC107</color>
+    <color name="rating_medium">#FFA000</color>
+    <color name="rating_low">#FF5722</color>
+    <color name="rating_extra_low">#FF0000</color>
+</resources>
